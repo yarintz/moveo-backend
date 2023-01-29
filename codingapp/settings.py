@@ -73,8 +73,8 @@ TEMPLATES = [
 WSGI_APPLICATION = 'codingapp.wsgi.application'
 
 CORS_ORIGIN_WHITELIST = [
-    #  "http://localhost:3000"
-    "https://moveo-client.web.app"
+     "http://localhost:3000"
+    # "https://moveo-client.web.app"
 ]
 
 # Database
